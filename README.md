@@ -1,1 +1,1 @@
-# Layout-practing-bootstrap-pricing
+pricing
